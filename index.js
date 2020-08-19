@@ -1,4 +1,4 @@
-const version = 3;
+const version = 'Brant!!!';
 
 setInterval(() => {
   console.log(`${version} ${new Date().toISOString()}`);
